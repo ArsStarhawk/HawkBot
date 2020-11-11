@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ArsStarhawk/HawkBot/issues"
   },
-  "homepage": "https://github.com/ArsStarhawk/HawkBot#readme"
+  "homepage": "https://github.com/ArsStarhawk/HawkBot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
 }
