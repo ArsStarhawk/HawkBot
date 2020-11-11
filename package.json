@@ -1,0 +1,19 @@
+{
+  "name": "hawkbot",
+  "version": "1.0.0",
+  "description": "First Attempt at Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArsStarhawk/HawkBot.git"
+  },
+  "author": "James Kidd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArsStarhawk/HawkBot/issues"
+  },
+  "homepage": "https://github.com/ArsStarhawk/HawkBot#readme"
+}
